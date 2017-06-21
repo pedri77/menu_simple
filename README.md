@@ -1,6 +1,6 @@
 # Menu Simple de Navegación
 
-## Pruebas para menún interesantes.
+## Pruebas para menús interesantes.
 
 EN CONSTRUCCIÓN
 
